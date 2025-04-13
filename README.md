@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 ![Cloverta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClovertaTheTrilobita&layout=compact)
 
-<br>
-
 ### 📫 How to reach me
 
 Feel free to contact me on cloverta@petalmail.com as I monitor this inbox everyday. 
