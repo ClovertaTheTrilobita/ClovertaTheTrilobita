@@ -26,7 +26,14 @@ Here are some ideas to get you started:
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CLovertaTheTrilobita/CLovertaTheTrilobita/main/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CLovertaTheTrilobita/CLovertaTheTrilobita/main/assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CLovertaTheTrilobita/CLovertaTheTrilobita/main/assets/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClovertaTheTrilobita/ClovertaTheTrilobita/main/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClovertaTheTrilobita/ClovertaTheTrilobita/main/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ClovertaTheTrilobita/ClovertaTheTrilobita/main/assets/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+### My GitHub Stats
+
+![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClovertaTheTrilobita&layout=compact)
