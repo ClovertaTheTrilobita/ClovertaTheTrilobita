@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is ClovertaTheTrilobita
 
 <!--
 **ClovertaTheTrilobita/ClovertaTheTrilobita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<img src="./resources/images/marisa.png" alt="marisa.png" style="zoom: 25%;" />
