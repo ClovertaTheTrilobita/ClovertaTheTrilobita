@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="./resources/images/marisa.png" alt="marisa.png" style="zoom: 8%;" />
+<img src="./resources/images/marisa.png" alt="marisa.png" width="210px"/>
 
 <h3 align="center">DA⭐ZI</h3>
+
