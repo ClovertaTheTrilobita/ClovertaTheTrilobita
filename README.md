@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="center">DA⭐ZI</h3>
+<p align="center">
+    <i>
+    	Didn't we all love the sometimes childish magician?
+    </i>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClovertaTheTrilobita/ClovertaTheTrilobita/main/assets/github-contribution-grid-snake-dark.svg">
