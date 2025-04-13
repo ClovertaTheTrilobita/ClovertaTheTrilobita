@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-<img src="./resources/images/marisa.png" alt="marisa.png" width="210px"/>
+<div align="center">
+    <img src="./resources/images/marisa.png" alt="marisa_1.png" width="210px"/>
+</div>
 
-<h3 align="center">DA⭐ZI</h3>
+<h2 align="center">DA⭐ZI</h3>
 
