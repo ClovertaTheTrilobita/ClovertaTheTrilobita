@@ -21,5 +21,12 @@ Here are some ideas to get you started:
     <img src="./resources/images/marisa.png" alt="marisa_1.png" width="210px"/>
 </div>
 
-<h2 align="center">DA⭐ZI</h3>
+<h3 align="center">DA⭐ZI</h3>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CLovertaTheTrilobita/CLovertaTheTrilobita/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CLovertaTheTrilobita/CLovertaTheTrilobita/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CLovertaTheTrilobita/CLovertaTheTrilobita/assets/github-contribution-grid-snake.svg">
+</picture>
