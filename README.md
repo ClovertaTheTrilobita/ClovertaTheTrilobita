@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="center">DA⭐ZI</h3>
 <p align="center">
     <i>
-    	Didn't we all love the sometimes childish magician?
+    	Didn't we all love Kirisame Marisa?
     </i>
 </p>
 
