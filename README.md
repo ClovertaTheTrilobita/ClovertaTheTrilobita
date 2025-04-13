@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     </i>
 </p>
 
-### Just to show-off this funny snake svg I found
+### 🐍Just to show-off this funny snake svg I found
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClovertaTheTrilobita/ClovertaTheTrilobita/main/assets/github-contribution-grid-snake-dark.svg">
@@ -38,7 +38,13 @@ Here are some ideas to get you started:
 
 <br>
 
-### My GitHub Stats
+### 🍊My GitHub Stats
 
-![Licardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true)
+![Cloverta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClovertaTheTrilobita&layout=compact)
+
+<br>
+
+### 📫 How to reach me
+
+Feel free to contact me on cloverta@petalmail.com as I monitor this inbox everyday. 
