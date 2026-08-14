@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ### 🍊My GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true&include_all_commits=true&theme=solarized-light)](https://github-stats-extended.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true&include_all_commits=true&theme=solarized-light)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ClovertaTheTrilobita&layout=compact&langs_count=6&theme=solarized-light)](https://github-stats-extended.vercel.app/api/top-langs?username=ClovertaTheTrilobita&layout=compact&langs_count=6&theme=solarized-light)
 
 ### 📫 How to reach me
