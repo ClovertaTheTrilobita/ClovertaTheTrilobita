@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ### 🍊My GitHub Stats
 
-![Cloverta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClovertaTheTrilobita&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true&include_all_commits=true&theme=solarized-light)](https://github-stats-extended.vercel.app/api?username=ClovertaTheTrilobita&show_icons=true&include_all_commits=true&theme=solarized-light)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ClovertaTheTrilobita&layout=compact&langs_count=6&theme=solarized-light)](https://github-stats-extended.vercel.app/api/top-langs?username=ClovertaTheTrilobita&layout=compact&langs_count=6&theme=solarized-light)
 
 ### 📫 How to reach me
 
